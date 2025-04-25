@@ -8,7 +8,7 @@
 <div align="center">
     <h2 style="color:#32CD32;">📸 Screenshots</h2>
     <img src="https://github.com/user-attachments/assets/0fc6e0d6-65e2-4403-b158-759f08dc7af4" alt="Phoenix Hack Screenshot 1" width="80%" style="border:2px solid #FF4500;border-radius:10px;box-shadow:5px 5px 15px rgba(0,0,0,0.5);margin-bottom:20px;">
-    <img src="(https://github.com/user-attachments/assets/fd9c8486-1fda-4e49-b705-4fbeda2a6d46" alt="Phoenix Hack Screenshot 2" width="80%" style="border:2px solid #4682B4;border-radius:10px;box-shadow:5px 5px 15px rgba(0,0,0,0.5);margin-bottom:20px;">
+    <img src="https://github.com/user-attachments/assets/fd9c8486-1fda-4e49-b705-4fbeda2a6d46" alt="Phoenix Hack Screenshot 2" width="80%" style="border:2px solid #4682B4;border-radius:10px;box-shadow:5px 5px 15px rgba(0,0,0,0.5);margin-bottom:20px;">
 </div>
 
 ---
